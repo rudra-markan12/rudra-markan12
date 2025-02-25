@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rudra Markan</h1>
-<h3 align="center">A passionate Full Stack Java  Developer from India 🚀</h3>
+<h3 align="center">A passionate Full Stack Java Developer from India 🚀</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<p align="center">
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+</p>
 
-- 🔭 I’m currently working on **EMS Project**
-- 🌱 I’m currently learning **Redux, Dynamic Programming**
+- 🔬 I’m currently working on **EMS Project**
+- 🌟 I’m currently learning **Redux, Dynamic Programming**
 - 💬 Ask me about **Java, DSA, MySQL, React, Spring Boot**
-- 📫 Reach me at **rudramarkan0@gmail.com**
+- 📧 Reach me at **rudramarkan0@gmail.com**
 - 📄 Check out my [Resume](resume_link_here)
 
 ---
@@ -16,7 +18,7 @@
   <a href="https://www.linkedin.com/in/rudra-markan-430aa8253/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudra-markan" height="30" width="40"/>
   </a>
-  <a href="https://leetcode.com/rudra95314/" target="blank">
+  <a href="https://leetcode.com/rudra95314/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rudra95314" height="30" width="40"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/rudrama1s4l/" target="_blank">
@@ -49,17 +51,17 @@
 </p>
 
 ---
-</p>
+
 ## 📊 Leetcode Stats  
 <p align="center">
-  <img src="https://imgur.com/a/U0c8PR7" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/rudra95314" width="48%" />
 </p>
 
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rudra-markan12&show_icons=true&theme=dark&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-markan12&theme=dark&hide_border=true" width="48%" />
-
+</p>
 
 ---
 
