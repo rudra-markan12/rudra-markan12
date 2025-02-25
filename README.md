@@ -52,7 +52,7 @@
 </p>
 ## 📊 Leetcode Stats  
 <p align="center">
-  <img src="https://i.imgur.com/xyz123.png" width="48%" />
+  <img src="https://imgur.com/a/U0c8PR7" width="48%" />
 </p>
 
 ## 📊 GitHub Stats  
