@@ -9,7 +9,7 @@
 - 🌟 I’m currently learning **Redux, Dynamic Programming**
 - 💬 Ask me about **Java, DSA, MySQL, React, Spring Boot**
 - 📧 Reach me at **rudramarkan0@gmail.com**
-- 📄 Check out my [Resume]([resume_link_here(https://drive.google.com/file/d/1GSsTG2ddCDzzi2Nqa5t1dscK8HBzMpI0/view?usp=drive_link))
+- 📄 Check out my [[resume_link_here(https://drive.google.com/file/d/1GSsTG2ddCDzzi2Nqa5t1dscK8HBzMpI0/view?usp=drive_link)]()
 
 ---
 
